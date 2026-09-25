@@ -37,4 +37,10 @@ A continuación, se listan las evidencias de que el proyecto cumple con los line
 - [x] **Los controladores de audio/video se liberan con `dispose()`**: Tanto en el ViewModel (`DetalleViewModel`) como en los Widgets (`_DetalleLugarScreenState`), se invoca `dispose()` para limpiar recursos de memoria.
       <img width="1624" height="1079" alt="image" src="https://github.com/user-attachments/assets/2e47889f-9876-4bf7-8940-12539b28d744" />
 
+- **Ejecucion del proyecto.**
+  <img width="1919" height="716" alt="image" src="https://github.com/user-attachments/assets/b1acb20e-1da2-42e9-aa5f-4808de7bbe57" />
+  <img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/df30ab38-3c5f-46c0-a82b-b5230e6e3fa2" />
+
+
+
 
